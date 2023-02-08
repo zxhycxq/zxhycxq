@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-前端开发工程师
+前端开发工程师、语言文字工作者
 
 Newsletter 互联网时代的搜商  https://search.zhubai.love/
+
+知乎： https://www.zhihu.com/people/zhihudianxiaoer
+
 <!--
 **zxhycxq/zxhycxq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
